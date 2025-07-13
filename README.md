@@ -17,6 +17,10 @@ I bring a practical approach to solving complex operational challenges using aut
 - **Scripting & Development:**  
   - PowerShell  
   - C# (.NET Core / Framework)
+ 
+- **IAM Stack & Auth Services:**
+  - RBAC and ABAC implementation  
+  - Oauth2 flows
 
 - **Cloud & Automation:**  
   - Azure Infrastructure Deployment  
