@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 I’m a **DevOps Engineer** with a strong focus on automation, infrastructure as code, and system integration. My daily work revolves around building scalable, maintainable, and secure environments — primarily in **Windows-based** infrastructures.
+👨‍💻 I’m a **DevOps Engineer** with a strong focus on automation, infrastructure as code, and system integration. My daily work revolves around building scalable, maintainable, and secure environments primarily in **Windows-based** infrastructures.
 
 I bring a practical approach to solving complex operational challenges using automation and scripting.
 
